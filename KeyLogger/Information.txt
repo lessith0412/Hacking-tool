@@ -1,0 +1,6 @@
+This a FUD Keylogger.
+Here this will directly report the keystroke on the discord.
+Here the keystroke are normally reported as the discord traffic.
+Also install this two modules.
+1. keyboard
+2. discord_webhook
